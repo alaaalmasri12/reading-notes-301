@@ -1,6 +1,6 @@
 **class** |**link**
 --- | --- 
-Class01 | [CLICK!](https://alaaalmasri12.github.io/reading-notes/class-01)
+Class01 | [CLICK!](https://alaaalmasri12.github.io/reading-notes-301/class-01)
 --- | ---
 class02 | [CLICK!](https://alaaalmasri12.github.io/reading-notes/class-02)
 --- | --- 
