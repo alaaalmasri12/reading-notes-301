@@ -14,8 +14,13 @@ To start using the Flexbox model, we need to first define a flex container. Pare
 The flex container properties are:
 
 flex-direction:The The flex-direction property defines in which direction the container wants to stack the flex items.
+
 flex-wrap: specifies whether the flex items should wrap or not. The examples below have 12 flex items, to better demonstrate the flex-wrap property.
+
 flex-flow: The flex-flow property is a shorthand property for setting both the flex-direction and flex-wrap properties.
+
 justify-content: The justify-content property is used to align the flex items:
+
 align-items:is used to align the flex items vertically.
+
 align-content:The align-content property is used to align the flex lines.
