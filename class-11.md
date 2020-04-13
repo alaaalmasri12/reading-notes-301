@@ -27,7 +27,7 @@ ex:
 ejs also help with browser support
 ex:
     `<script src="ejs.js"></script>`
-`<script>`
- ` let people = ['geddy', 'neil', 'alex'],`
-     ` html = ejs.render('<%= people.join(", "); %>', {people: people});`
-`</script>`
+      `<script>`
+      ` let people = ['geddy', 'neil', 'alex'],`
+     `  html = ejs.render('<%= people.join(", "); %>', {people: people});`
+          `</script>`
